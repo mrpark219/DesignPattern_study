@@ -17,6 +17,5 @@ public class Adapter_main {
         System.out.println(adapter.enhancedTwiceOf(100F));
         System.out.println(adapter.enhancedTwiceOf(200F));
 
-
     }
 }

@@ -1,5 +1,3 @@
-
-
 public class Math {
 
     public static double twiceOf(double d) {
