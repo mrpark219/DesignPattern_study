@@ -1,2 +1,6 @@
-package framework;public interface Item {
+package framework;
+
+public interface Item {
+
+    public void use();
 }
