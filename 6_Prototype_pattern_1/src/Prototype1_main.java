@@ -3,6 +3,7 @@ public class Prototype1_main {
     public static void main(String[] args) throws CloneNotSupportedException {
 
         /*
+            Prototype Patten(프로토타입 패턴)
             원형이 되는 인스턴스로 새로운 인스턴스를 만드는 방식으로, 객체에 의해 생성될 객체의 타입이
             결정되는 생성 디자인 패턴이다.
          */
