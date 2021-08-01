@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/6_Prototype_pattern_2/6_Prototype_pattern_2.iml" filepath="$PROJECT_DIR$/6_Prototype_pattern_2/6_Prototype_pattern_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_Builder_pattern_1/7_Builder_pattern_1.iml" filepath="$PROJECT_DIR$/7_Builder_pattern_1/7_Builder_pattern_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_Builder_pattern_2/7_Builder_pattern_2.iml" filepath="$PROJECT_DIR$/7_Builder_pattern_2/7_Builder_pattern_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_AbstractFactory_pattern_1/8_AbstractFactory_pattern_1.iml" filepath="$PROJECT_DIR$/8_AbstractFactory_pattern_1/8_AbstractFactory_pattern_1.iml" />
     </modules>
   </component>
 </project>
