@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10_Composite_pattern/10_Composite_pattern.iml" filepath="$PROJECT_DIR$/10_Composite_pattern/10_Composite_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Decorator_pattern/11_Decorator_pattern.iml" filepath="$PROJECT_DIR$/11_Decorator_pattern/11_Decorator_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Visitor_pattern/12_Visitor_pattern.iml" filepath="$PROJECT_DIR$/12_Visitor_pattern/12_Visitor_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Strategy_pattern/1_Strategy_pattern.iml" filepath="$PROJECT_DIR$/1_Strategy_pattern/1_Strategy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Adapter_pattern/2_Adapter_pattern.iml" filepath="$PROJECT_DIR$/2_Adapter_pattern/2_Adapter_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_TemplateMethod_pattern/3_TemplateMethod_pattern.iml" filepath="$PROJECT_DIR$/3_TemplateMethod_pattern/3_TemplateMethod_pattern.iml" />
