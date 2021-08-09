@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/13_ChainOfResponsibility_pattern_1/13_ChainOfResponsibility_pattern_1.iml" filepath="$PROJECT_DIR$/13_ChainOfResponsibility_pattern_1/13_ChainOfResponsibility_pattern_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_ChainOfResponsibility_pattern_2/13_ChainOfResponsibility_pattern_2.iml" filepath="$PROJECT_DIR$/13_ChainOfResponsibility_pattern_2/13_ChainOfResponsibility_pattern_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/14_Facade_pattern/14_Facade_pattern.iml" filepath="$PROJECT_DIR$/14_Facade_pattern/14_Facade_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Observer_pattern_1/15_Observer_pattern_1.iml" filepath="$PROJECT_DIR$/15_Observer_pattern_1/15_Observer_pattern_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Strategy_pattern/1_Strategy_pattern.iml" filepath="$PROJECT_DIR$/1_Strategy_pattern/1_Strategy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Adapter_pattern/2_Adapter_pattern.iml" filepath="$PROJECT_DIR$/2_Adapter_pattern/2_Adapter_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_TemplateMethod_pattern/3_TemplateMethod_pattern.iml" filepath="$PROJECT_DIR$/3_TemplateMethod_pattern/3_TemplateMethod_pattern.iml" />
