@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/15_Observer_pattern_3/15_Observer_pattern_3.iml" filepath="$PROJECT_DIR$/15_Observer_pattern_3/15_Observer_pattern_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_Mediator_pattern/16_Mediator_pattern.iml" filepath="$PROJECT_DIR$/16_Mediator_pattern/16_Mediator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/17_State_pattern/17_State_pattern.iml" filepath="$PROJECT_DIR$/17_State_pattern/17_State_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Memento_pattern/18_Memento_pattern.iml" filepath="$PROJECT_DIR$/18_Memento_pattern/18_Memento_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_Strategy_pattern/1_Strategy_pattern.iml" filepath="$PROJECT_DIR$/1_Strategy_pattern/1_Strategy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Adapter_pattern/2_Adapter_pattern.iml" filepath="$PROJECT_DIR$/2_Adapter_pattern/2_Adapter_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_TemplateMethod_pattern/3_TemplateMethod_pattern.iml" filepath="$PROJECT_DIR$/3_TemplateMethod_pattern/3_TemplateMethod_pattern.iml" />
